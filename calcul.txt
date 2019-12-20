@@ -1,0 +1,2 @@
+# Ce fichier va reprendre le calcul complet.
+# Il faut dnas un premier temps faire la différence entre les 2 dates et ensuite calculer le salaire
