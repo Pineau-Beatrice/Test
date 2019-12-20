@@ -1,2 +1,2 @@
 # Test
-Premier pas dans github
+Création d'un petit projet dans le cadre des exercices de Openclassrooms.
